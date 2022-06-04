@@ -1,2 +1,2 @@
 # GrainInEar
-静态文档网站,代码上传
+vuepress 搭建的静态网站
